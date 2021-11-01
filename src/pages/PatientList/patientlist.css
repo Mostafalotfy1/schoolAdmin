@@ -1,0 +1,101 @@
+/* *{
+    box-sizing: border-box;
+} */
+/* .imageContainer-patientList
+{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+} */
+/*===========================================================*/
+/* .cardpatient {
+	background-color: white;
+	color: #272727;
+	padding: 20px;
+	border-radius: 10px; 
+	 border: 0px;
+	border-color: #3ce2ad;
+	border-style: solid;
+	transition: 200ms;
+} */
+
+
+/* .cardpatient:hover {
+	transition: 200ms;
+	border: 3px !important;
+	border-color: #3ce2ad !important;
+	border-style: solid;
+} */
+/* 
+.card{
+	border: none !important;
+	padding: 10px;
+}
+.cardpatient-header {
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+
+}
+.cardpatient
+{
+	transition: box-shadow 400ms;
+}
+.cardpatient:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.profilepateint span  {
+	width: 1.5rem;
+	height: 1.5rem;
+	background-color: #3ce2ad;
+	border-radius: 50%;
+	margin: 10px;
+	font-size: 15pt;
+	text-align: center;
+	font-weight: bold;
+	color : white !important;
+	justify-content: center;
+}
+
+
+
+.cardpatient-title-group {
+	justify-content: center;
+}
+
+.cardpatient-title {
+	flex: 0.5;
+	font-size: medium;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.cardpatient-date {
+	flex: 0.3;
+	font-size: small;
+	margin-top: 0;
+}
+
+.cardpatient-image {
+	border-radius: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+    height: 150px;
+    width: 150px;
+    align-content: center;
+    margin:auto;
+	
+}
+
+.cardpatient-text {
+	font-size: medium;
+} */
+.searchField
+{	margin-top: 5vh;
+	display: flex;
+	justify-content: center;
+}
+/* .patient-id
+{
+	font-weight: bold;
+	cursor: pointer;
+} */

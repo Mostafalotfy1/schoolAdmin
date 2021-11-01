@@ -1,0 +1,9 @@
+export const CREATEPROFILE = "CREATEPROFILE";
+export const PATIENTDETAILS = "PATIENTDETAILS";
+export const DEPARTMENTS = "DEPARTMENTS";
+export const DOCTORPROFILE = "DOCTORPROFILE";
+export const ADMINS ="ADMINS";
+export const PATIENTDRAG = "PATIENTDRAG";
+export const MESSAGES = "MESSAGES";
+export const GETPARENTS = "GETPARENTS";
+export const GETAPP = "GETAPP";

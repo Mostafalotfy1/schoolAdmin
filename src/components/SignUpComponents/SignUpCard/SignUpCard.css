@@ -1,0 +1,30 @@
+.footer-signUp-Card {
+    color: black;
+    font-family: "Yomogi", cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 16px;
+    margin: 10px;
+}
+.from-label-signUp {
+    margin-top: 22px;
+    padding-right: 18px;
+    font-family: var(--main-font-family) !important;
+    font-weight: 600;
+    color: var(--main-dark-font-color--dark) !important;
+}
+.inputs-signUp {
+    padding: 10px;
+}
+.signUp-body,
+.btn-signUp-container {
+    display: flex;
+    justify-content: center;
+}
+.one-lang-inputs {
+    width: 100%;
+}
+.inputs-signUp.signupCard .MuiFormControl-root.css-1nrlq1o-MuiFormControl-root
+{
+    width: 26vw;
+}

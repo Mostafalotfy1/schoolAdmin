@@ -1,0 +1,48 @@
+.HomeDashbord{
+    background: url('../../Assets/Images/dashbordHome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    margin: auto;
+    min-height:100vh;
+    position: relative;
+}
+.overlay{
+    position: absolute;
+    top:0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(5, 5, 5,0.2);
+}
+.containerbtns{
+    position: fixed;
+    left: 0;
+    top:0;
+    height: 100%;
+    width: 100%;
+    z-index: 2;
+}
+.containerbtns .hometbnl{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 4 ;
+    padding: 14px 31px;
+    margin: 10px;
+    font-size:1.7em;
+    font-weight: bold;
+    background-color: #00AB55;
+    transition: background-color  400ms ease-in-out, color 400ms ease-in-out, border 400ms ease-in-out;
+   
+}
+.containerbtns .tittle{
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
+    margin: 10px;
+    font-weight: bold;   
+}
+

@@ -1,0 +1,31 @@
+*{
+    font-family: var(--main-font-family);
+}
+.servicesCard
+{
+    padding: 15px;
+    margin: 15px;
+}
+.servicesImage
+{
+    width: 30%;
+}
+@media only screen and (min-width: 768px)
+{
+    .ourServicesCard{
+        margin: 0px 30px
+    }
+}
+@media only screen and (max-width: 600px) 
+{
+    .ourServicesCardTittle{
+        font-size: 17px;
+    }
+    .ourServicesCardDescription{
+        font-size: 14px;
+    }
+    .servicesImage
+    {
+        width: 40% !important;
+    }
+}

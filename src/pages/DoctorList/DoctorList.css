@@ -1,0 +1,12 @@
+
+.searchField
+{	margin-top: 5vh;
+	display: flex;
+    justify-content: space-between;
+    margin: 20px;}
+.btnLink
+{
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: bold;
+}

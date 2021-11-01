@@ -1,0 +1,25 @@
+.btnDrag {
+    width: 50%;
+    margin-left: 20px !important;
+
+}
+.firstContainer{
+    margin-top: 10%;
+}
+button.MuiLoadingButton-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButton-fullWidth.MuiButtonBase-root.mt-3.btnDrag.css-1p4ur45-MuiButtonBase-root-MuiButton-root-MuiLoadingButton-root
+{
+    margin:0px !important;
+}
+
+.makeStyles-formControl-1{
+    margin:16px !important;
+}
+button.MuiLoadingButton-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButton-fullWidth.MuiButtonBase-root.mt-3.btnDrag.css-1p4ur45-MuiButtonBase-root-MuiButton-root-MuiLoadingButton-root
+{
+    width: auto;
+    margin:16px !important;
+}
+.firstRow
+{
+    margin-top: 5rem !important;
+}

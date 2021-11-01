@@ -1,0 +1,37 @@
+.social-SignUp {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
+.social-SignUp:before,
+.social-SignUp:after {
+    content: "";
+    flex: 0.3 0.3;
+    border-bottom: 1px solid var(--main-dark-font-color--dark) !important;
+    margin: auto;
+    width: 20vw;
+}
+svg.mr-3.ml-3
+{
+    margin-right: 20px !important;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 1.7em;
+    transition: color 600ms;
+    cursor: pointer;
+}
+
+.facebook-signUp path,
+.twitter-signUp path,
+.mail-signUp path{
+    transition: color  400ms ease-in-out,
+}
+.facebook-signUp path:hover{
+    color: #1877f2!important;
+}
+.twitter-signUp path:hover{
+    color: rgb(29 161 242)!important;
+}
+.mail-signUp path:hover{
+    color: #ea4335!important;
+}

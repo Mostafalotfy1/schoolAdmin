@@ -1,0 +1,18 @@
+.HomeBtn
+{
+    color: #fff !important ;
+    background-color: var(--main-btn-color) ;
+    border: 2px solid transparent ;
+    border-radius: 45px ;
+    padding: 14px 31px;
+    margin: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    transition: background-color  400ms ease-in-out, color 400ms ease-in-out, border 400ms ease-in-out;
+}
+.HomeBtn:hover
+{
+    background-color: #fff ;
+    color: black !important ;
+    border: 2px solid var(--main-btn-color) ;
+}

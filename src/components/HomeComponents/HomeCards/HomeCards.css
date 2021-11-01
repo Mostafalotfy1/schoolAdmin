@@ -1,0 +1,28 @@
+.card
+{
+    border: 0px !important;
+    border-radius: 0.7em;
+}
+@media only screen and (max-width: 600px) 
+{
+    .card{
+        margin-left: 10px;
+    }
+}
+
+@media only screen and (min-width: 768px) 
+{
+    #CardsSpace{
+        padding-right: 0px !important;
+    }
+
+    .cardHeight
+    {
+        margin-top: 5vh;
+    }
+    .rowFirstCards
+    {
+        margin-top: -50px;
+    }
+}
+

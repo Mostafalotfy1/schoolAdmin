@@ -1,0 +1,24 @@
+*{
+    font-family: var(--main-font-family);
+}
+.descriptionColor
+{
+    color: #0078aa !important;
+    font-size: 12px;
+}
+.DoctorName
+{
+    color: var(--main-dark-font-color--dark) !important;
+    font-size: 36px !important;
+    font-weight: 400;
+}
+.coloredName
+{
+    color: var(--main-dark-font-color--dark) !important;
+    font-size: 36px !important;
+}
+.explainSection
+{
+    line-height: 1.8;
+    font-size: 14px;
+}

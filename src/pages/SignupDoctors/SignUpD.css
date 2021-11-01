@@ -1,0 +1,47 @@
+/* .SignUpBg
+{
+    background-image: url('../../Assets/Images/signupBG.jpg');
+    background-size: cover;
+    height: 180vh;
+    padding: 0px !important;
+}
+.signUpOverlay
+{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 180vh;
+    width: 100%;
+    background-color: rgb(67 67 67 / 37%);
+    z-index: 3;
+}
+.signUpCard
+{
+    opacity: 0.8;
+    margin: auto;
+    margin-top: 10%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .SignUpBg
+    {
+        background-image: url('../../Assets/Images/signupBG.jpg');
+        background-size: cover;
+        height: 190vh;
+        background-position-x: 40%;
+    }
+    .signUpCard
+    {
+        margin-top: 40%;
+    }
+    .signUpOverlay
+    {
+        height: 190vh;
+    }
+} */
+.firstContainer{
+    margin-top: 10% !important;
+}

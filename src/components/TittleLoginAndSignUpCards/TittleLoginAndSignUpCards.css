@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Yomogi&display=swap");
+.signUpAndLogin-tittle{
+    color: var(--main-btn-color) !important;
+    font-family: "Yomogi", cursive;
+    font-weight: bold;
+}

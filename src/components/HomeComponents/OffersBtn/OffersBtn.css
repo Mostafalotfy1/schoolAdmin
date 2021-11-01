@@ -1,0 +1,32 @@
+.offerBtn{
+    margin: 0 auto;
+    font-weight: 700;
+    border-radius: 100px;
+    line-height: 50px;
+    padding: 15px 30px !important;
+    font-size: 13px;
+    text-decoration: none;
+    transition: all 400ms ease-in-out;
+    cursor: pointer;
+
+}
+.firstBtn
+{
+    background-color: #fff;
+    border: 2px solid #fff!important;
+}
+.firstBtn:hover{
+    border: 2px solid #0078aa!important;
+    background-color: rgba(30,115,190,0.01)!important;
+}
+.secondBtn
+{
+    background-color: #0078aa;
+    color: #fff !important;
+    border: 2px solid #0078aa!important;
+}
+.secondBtn:hover{
+    color:black !important;
+    border: 2px solid #0078aa!important;
+    background-color: rgba(30,115,190,0.01)!important;
+}

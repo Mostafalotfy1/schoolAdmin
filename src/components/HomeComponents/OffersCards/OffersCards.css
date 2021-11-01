@@ -1,0 +1,48 @@
+*{
+    font-family: var(--main-font-family);
+    color: #3a3a3a !important;
+}
+.card
+{
+    padding: 20px;
+}
+.offerTittle
+{
+    margin-bottom: 0;
+    padding: 5px;
+    font-size: 24px;
+}
+.offerPrice
+{
+    font-size: 60px;
+    padding-bottom: 0;
+    font-weight: 700;
+    margin-top: -24px;
+}
+.treatmentNumbers
+{
+    font-style: italic;    
+    font-weight: 400;
+    font-size: 12px;
+}
+.Offers
+{
+    padding: 10px;
+    font-weight: 400;
+    font-size: 12px;
+}
+@media only screen and (min-width: 768px) {
+
+    .cardPosition
+    {
+        margin-top: 10vh;
+    }
+    .rightCard
+    {
+        margin-left: -12px;
+    }
+    .leftCard
+    {
+        margin-right: -12px;
+    }
+}
